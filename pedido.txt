@@ -1,0 +1,13 @@
+
+Cliente: 
+Nome:ll
+Quantidade de pessoas na mesa: 2
+Pratos pedidos:[
+ID:1 Macarrão Alho e Óleo; valor = R$50.0, 
+ID:2 Lasanha Quatro Queijos; valor = R$65.0, 
+ID:3 Gnocchi Molho Fungi; valor = R$100.0]
+Funcionario: 
+ID:2
+Nome: Ozzy Osbourne
+Função: Garçom
+Preço total: 236,50
